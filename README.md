@@ -1,2 +1,2 @@
 # Contador
-Primeiro contador segundos ou minutos
+Primeiro contador segundos ou minutos C#
